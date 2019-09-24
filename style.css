@@ -1,0 +1,29 @@
+.col-centered{float: none; margin: 0 auto}
+#title1{
+    /* font-family: Times; */
+    font-size: 40px;
+    color: black;
+    text-transform: uppercase;
+    text-shadow:
+    2px 2px 0 lightgray,
+    -1px -1px 0 lightgray,  
+    1px -1px 0 lightgray,
+    -1px 1px 0 lightgray,
+    1px 1px 0 lightgray;
+}  
+#title2{
+    font-size: 22px;
+    color: black;
+    text-shadow:
+    1px 1px 0 lightgray,
+    -1px -1px 0 lightgray,  
+    1px -1px 0 lightgray,
+    -1px 1px 0 lightgray,
+    1px 1px 0 lightgray;
+}
+body {
+    background-color:whitesmoke
+}
+.navbar-custom {
+    background-color: lightgray
+}
